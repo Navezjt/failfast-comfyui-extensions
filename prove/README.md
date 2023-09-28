@@ -1,0 +1,1 @@
+https://github.com/failfa-st/failfast-comfyui-extensions
